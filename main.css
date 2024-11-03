@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+
+.container {
+    max-width: 100%;
+    width: 1220px;
+    margin: 0 auto;
+}
+
+.naruto {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    background-color: hsla(231, 76%, 15%, 0.977);
+    color: aliceblue;
+    border: none;
+
+}
+
+header {
+    background-color: hsla(231, 76%, 15%, 0.977);
+    color: aliceblue;
+}
+
+.b1 {
+    font-size: 18px;
+    width: 115px;
+    background-color: hsla(231, 76%, 15%, 0.977);
+    border: none;
+    color: #fff;
+}
+
+.button2 {
+    display: flex;
+    gap: 10px;
+}
+
+.b2 {
+    width: 175px;
+    height: 50px;
+    border-radius: 15px;
+    background: #BFAFF2;
+
+
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 29px;
+}
+
+.card-p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: center;
+    width: 293px;
+    padding-left: 22px;
+
+}
+
+.card-h1 {
+
+
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    padding: 16px 0;
+    text-align: center;
+
+}
+
+.card {
+    background-color: #232028;
+    color: aliceblue;
+    width: 325px;
+    padding: 16px 0;
+    border-radius: 32px;
+    margin-top: 418px;
+}
+
+.box-gojo {
+    position: absolute;
+    top: 180px;
+   
+    
+}
+main{
+    background-color: hsla(231, 76%, 15%, 0.977);
+}
+.parent{
+    display: flex;
+   gap: 20px;
+}
+footer{
+    background-color: hsla(231, 76%, 15%, 0.977);
+    padding-top: 125px;
+    color: #fff;
+}
+.parent-foot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul{
+    display: flex;
+    gap: 28px;
+}
+.magic{
+    margin-bottom: 20px;
+}
